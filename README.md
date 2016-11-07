@@ -16,7 +16,7 @@ range（）自己多试试，目前只知道荣耀8的地址“标识”为：p3
 
 目前收集的整包（不定时更新）：  
 
-稳定B160：  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1348/g104/v64274/f1/full/update.zip
+稳定B160：  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1348/g104/v64274/f1/full/update.zip   
 极客6.11.1：  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1348/g104/v64625/f1/full/update.zip   
 
 

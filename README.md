@@ -15,9 +15,10 @@ range（）自己多试试，目前只知道荣耀8的地址“标识”为：p3
 就这样    
 
 
-#目前收集的整包（不定时更新）：
+#项目停止！  
 
-稳定B160：  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1348/g104/v64274/f1/full/update.zip   
-极客6.11.1：  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1348/g104/v64625/f1/full/update.zip     
-EMUI 5 test version:  http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1278/g104/v65743/f1/full/update.zip
+我发现我所做的别人都已做过，所以没必要自己浪费时间了。   
+直接上地址：  http://www.lcblues.cn/3.html  (相当于国内版本honor8的备份库吧)  
+
+源地址:  http://hwmt.ru/oth/HWFF/info/view.php?find_model=frd  (Thanks.)
 
